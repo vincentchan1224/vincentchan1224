@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi! Nice to meet you, but ... why are you here? (gif)
+
+I'm Vincent Chan, a self-taught full stack web development and present student of Humber College. I love to explorer new knownledge and figure out the solution of question. 
+
+Currently I have no project, but it's coming...
 
 <!--
 **vincentchan1224/vincentchan1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

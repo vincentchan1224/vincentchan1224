@@ -1,8 +1,14 @@
-## Hi! Nice to meet you, but ... why are you here? (gif)
+## Hi! Nice to meet you!
 
 I'm Vincent Chan, a self-taught full stack web development and present student of Humber College. I love to explorer new knownledge and figure out the solution of question. 
 
-Currently I have no project, but it's coming...
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <!--
 **vincentchan1224/vincentchan1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

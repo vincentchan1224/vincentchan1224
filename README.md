@@ -1,6 +1,7 @@
 ## Hi! Nice to meet you!
 
-I'm Vincent Chan, a self-taught full stack web development and present student of Humber College. I love to explorer new knownledge and figure out the solution of question. 
+I am a self-taught full-stack web developer and a current student at Humber College. I love to explore new knowledge and find solutions to questions
+
 
 ### Languages
 
